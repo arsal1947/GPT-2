@@ -1,0 +1,12 @@
+# virtual environment
+venv/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# scratch / editor files
+.vscode/
+.idea/
+self.py
